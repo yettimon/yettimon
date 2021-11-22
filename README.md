@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @yettimon, frontend dev/UI designer
+- 👀 Stack : React/JS/Figma
+- 📫 telegram : @yettimon
+- 📫 mail : globalobjectiveart@gmail.com
